@@ -10,4 +10,4 @@ Small arduino based sketch to test LTE CatM using the Arduino MKRNB 1500 board.
 
 ###### Upload to the board.
 That is it.. 
-LTECat1Test
+
